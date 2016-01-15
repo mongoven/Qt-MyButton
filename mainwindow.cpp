@@ -12,3 +12,6 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+
+// DanMo 20160115 - Adding a comment
